@@ -1,0 +1,107 @@
+/*!
+Theme Name: Meissam-WP-Starter-Theme
+Theme URI: https://gitlab.com/meissam/meissam-wp-starter-theme
+Author: meissam rasouli
+Author URI: https://meissam.net
+Description: Description
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: Meissam-WP-Starter-Theme
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready, Gulp, Webpack, PostCSS, Babel, RTL
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned.
+
+Meissam-WP-Starter-Theme is based on https://gitlab.com/meissam/meissam-wp-starter-theme, (C) 2020.
+Meissam-WP-Starter-Theme is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Normalize
+# Typography
+# Elements
+# Forms
+# Navigation
+	## Links
+	## Menus
+# Accessibility
+# Alignments
+# Clearings
+# Widgets
+# Content
+	## Posts and pages
+	## Comments
+# Infinite scroll
+# Media
+	## Captions
+	## Galleries
+--------------------------------------------------------------*/
+@import "components/variables-site/_variables-site.css";
+@import "components/mixins/_mixins-master.css";
+
+/*--------------------------------------------------------------
+# Normalize
+--------------------------------------------------------------*/
+@import "components/_normalize.css";
+
+/*--------------------------------------------------------------
+# Typography
+--------------------------------------------------------------*/
+@import "components/typography/_typography.css";
+
+/*--------------------------------------------------------------
+# Elements
+--------------------------------------------------------------*/
+@import "components/elements/_elements.css";
+
+/*--------------------------------------------------------------
+# Forms
+--------------------------------------------------------------*/
+@import "components/forms/_forms.css";
+
+/*--------------------------------------------------------------
+# Navigation
+--------------------------------------------------------------*/
+@import "components/navigation/_navigation.css";
+
+/*--------------------------------------------------------------
+# Accessibility
+--------------------------------------------------------------*/
+@import "components/modules/_accessibility.css";
+
+/*--------------------------------------------------------------
+# Alignments
+--------------------------------------------------------------*/
+@import "components/modules/_alignments.css";
+
+/*--------------------------------------------------------------
+# Clearings
+--------------------------------------------------------------*/
+@import "components/modules/_clearings.css";
+
+/*--------------------------------------------------------------
+# Widgets
+--------------------------------------------------------------*/
+@import "components/site/secondary/_widgets.css";
+
+/*--------------------------------------------------------------
+# Content
+--------------------------------------------------------------*/
+@import "components/site/_site.css";
+
+/*--------------------------------------------------------------
+# Infinite scroll
+--------------------------------------------------------------*/
+@import "components/modules/_infinite-scroll.css";
+
+/*--------------------------------------------------------------
+# Media
+--------------------------------------------------------------*/
+@import "components/media/_media.css";
+

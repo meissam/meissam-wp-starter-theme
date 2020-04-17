@@ -1,0 +1,18 @@
+.clear,
+.entry-content,
+.comment-content,
+.site-header,
+.site-content,
+.site-footer {
+
+	&::before,
+	&::after {
+
+		@mixin clearfix;
+	}
+
+	&::after {
+
+		@mixin clearfix-after;
+	}
+}

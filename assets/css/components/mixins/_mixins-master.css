@@ -1,0 +1,19 @@
+/* Center block */
+@define-mixin center-block {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* Clearfix */
+@define-mixin clearfix {
+	content: "";
+	display: table;
+	table-layout: fixed;
+}
+
+/* Clear after (not all clearfix need this also) */
+@define-mixin clearfix-after {
+	clear: both;
+}
+
