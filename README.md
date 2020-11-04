@@ -44,7 +44,7 @@ $ git clone https://gitlab.com/meissam/meissam-wp-boilerplate
 
 You can also download the .zip file from the following URL. 
 
-[zip file](https://gitlab.com/meissam/meissam-wp-starter-theme/-/archive/master/meissam-wp-starter-theme-master.zip)
+[zip file](https://github.com/meissam/meissam-wp-starter-theme/archive/master.zip)
 
 
 
