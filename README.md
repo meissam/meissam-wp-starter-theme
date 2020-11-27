@@ -1,6 +1,6 @@
 # Meissam-WP-Starter-Theme
 
-**Meissam-WP-Starter-Theme is a starter theme including full setup for `gulp`, `Webpack`, `Babel`, `PostCss`, `Browsersync` and beautiful admin panel based on Slate admin theme. This them uses `PostCSS` which has a great plugin based ecosystem and is also blazing fast in contrast with Sass. **
+Meissam-WP-Starter-Theme is a starter theme including full setup for `gulp`, `Webpack`, `Babel`, `PostCss`, `Browsersync` and beautiful admin panel based on Slate admin theme. This them uses `PostCSS` which has a great plugin-based ecosystem and is also blazing fast in contrast with Sass.
 
 ## 
 
